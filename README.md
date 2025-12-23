@@ -46,18 +46,6 @@ In addition to web security, I worked on **Android application penetration testi
 
 ---
 
-## Key Skills & Tools
-
-- **Web Penetration Testing**
-- **Android Security Testing**
-- **Vulnerability Analysis & Mitigation**
-- **JADX GUI** (Static Analysis)
-- **Frida** (Dynamic Analysis)
-- **PortSwigger Web Security Academy**
-- Secure coding and defensive security practices
-
----
-
 ## Conclusion
 This internship at **CORELIA** strengthened my understanding of how security vulnerabilities exist in real-world applications, how attackers exploit them, and how developers and security engineers can effectively mitigate them. The hands-on approach significantly enhanced my practical skills in both **web** and **Android application security**.
 
